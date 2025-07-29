@@ -45,7 +45,7 @@
 ### 2. 克隆并配置项目
 1.  克隆本仓库到您的本地：
     ```bash
-    git clone https://github.com/your-username/Cloudflare-Worker-ProxyLink.git
+    git clone https://github.com/lqt444444/Cloudflare-Worker-ProxyLink.git
     cd Cloudflare-Worker-ProxyLink
     ```
 
