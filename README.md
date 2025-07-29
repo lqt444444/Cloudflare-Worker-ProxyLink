@@ -2,9 +2,6 @@
 
 一个功能强大、自行部署的临时链接反向代理服务，完全基于 Cloudflare Workers 和 KV 存储，无需服务器。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 ---
 
 ## 核心功能
@@ -119,7 +116,3 @@ wrangler deploy
 
 ### 3. 管理链接
 点击后台导航栏的“管理所有链接”，您可以查看所有未过期的链接，并随时删除它们。
-
-## 许可证
-
-本项目采用 [MIT License](LICENSE) 开源。
