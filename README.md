@@ -4,8 +4,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![项目截图](https://i.imgur.com/your-screenshot-placeholder.png)  
-*(强烈建议您替换此处的图片链接为您自己录制的项目功能动图或截图)*
 
 ---
 
